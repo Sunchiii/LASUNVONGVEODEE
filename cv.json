@@ -1,0 +1,289 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Lasun Vongveodee",
+    "label": "Backend Engineer | DevOps Engineer",
+    "animated_main_label": "engineer",
+    "animated_secondary_initial_label": "backend",
+    "animated_secondary_final_label": "devops",
+    "image": "/lasunvongveodee.jpg",
+    "email": "rachanlamoolphal@gmail.com",
+    "url": "",
+    "summary": "I have experience in developing and maintaining software applications for various enterprise. Skilled in working with databases, APIs, and software development tools. My experience also includes collaborating with cross-functional teams to deliver high-quality software solutions on time.",
+    "theme": "platinum",
+    "location": {
+      "address": "Thakek",
+      "city": "Khammouane",
+      "countryCode": "LA",
+      "region": "Laos"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "icon": "simple-icons:linkedin",
+        "color": "#0A66C2",
+        "username": "lasun-vongveodee",
+        "url": "https://www.linkedin.com/in/lasun-vongveodee-310b731b7/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "Sunchiii",
+        "url": "https://github.com/Sunchiii"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "rachanlamoolphal",
+        "url": "mailto:rachanlamoolphal@gmail.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Lailaolab ICT Solutions",
+      "position": "Web Front-End Developer",
+      "location_type": "On-site",
+      "location": "LA",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Developed and maintained front-end web applications for enterprise clients.",
+      "responsibilities": [
+        "Designed and implemented responsive web interfaces using HTML5, CSS3, and JavaScript.",
+        "Integrated RESTful APIs to connect front-end views with back-end services.",
+        "Collaborated with design and backend teams to deliver client projects on schedule."
+      ],
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "REST API": "mdi:api"
+      }
+    },
+    {
+      "name": "AIF Group",
+      "position": "Back-End Developer",
+      "location_type": "On-site",
+      "location": "LA",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "summary": "Building and maintaining back-end services and APIs for enterprise applications.",
+      "responsibilities": [
+        "Designed and developed RESTful APIs using Go for internal and external services.",
+        "Managed and optimized PostgreSQL databases, including schema design and query tuning.",
+        "Implemented containerized deployments using Docker for consistent environments.",
+        "Collaborated with cross-functional teams to integrate back-end services with front-end and third-party systems."
+      ],
+      "skills": {
+        "Go": "simple-icons:go",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Git": "mdi:git",
+        "Docker": "mdi:docker"
+      }
+    },
+    {
+      "name": "AIF Group",
+      "position": "DevOps Engineer",
+      "location_type": "On-site",
+      "location": "LA",
+      "url": "",
+      "startDate": "2024-03-01",
+      "endDate": "2026-01-31",
+      "summary": "Managed infrastructure, CI/CD pipelines, and container orchestration for the engineering team.",
+      "responsibilities": [
+        "Set up and maintained Kubernetes clusters for container orchestration and service scaling.",
+        "Built and managed CI/CD pipelines using GitHub Actions to automate testing and deployment.",
+        "Administered Linux servers and maintained system reliability, monitoring, and security patching."
+      ],
+      "skills": {
+        "Docker": "mdi:docker",
+        "Kubernetes": "simple-icons:kubernetes",
+        "GitHub Actions": "mdi:github",
+        "Linux": "simple-icons:linux"
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of Laos",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2019-01-01",
+      "endDate": "2023-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MP Nongbok High School",
+      "url": "",
+      "area": "High School Graduation",
+      "studyType": "High School",
+      "startDate": "2015-01-01",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Go",
+      "icon": "simple-icons:go",
+      "level": "Advanced",
+      "keywords": ["Backend", "Web Development", "API"]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Scripting", "Machine Learning"]
+    },
+    {
+      "name": "Node.js",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Advanced",
+      "keywords": ["DevOps", "Containers", "Backend"]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "simple-icons:kubernetes",
+      "level": "Intermediate",
+      "keywords": ["DevOps", "Orchestration", "Infrastructure"]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Advanced",
+      "keywords": ["Backend", "Databases", "SQL", "Relational Database"]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Advanced",
+      "keywords": ["OS", "Scripting", "Automation", "DevOps"]
+    },
+    {
+      "name": "Computer Vision",
+      "icon": "mdi:eye-outline",
+      "level": "Intermediate",
+      "keywords": ["Machine Learning", "AI", "Image Processing"]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "mdi:brain",
+      "level": "Intermediate",
+      "keywords": ["AI", "Data Science", "Python"]
+    },
+    {
+      "name": "Shell/Bash",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": ["Scripting", "Automation", "Linux", "DevOps"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Lao",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "makingWeb Blog Competition",
+      "isActive": true,
+      "description": "First prize winner in a national web development blog competition organized by FEN in 2020.",
+      "highlights": [
+        "First prize at national level",
+        "Competition organized by FEN (2020)"
+      ],
+      "stack": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript"
+      }
+    },
+    {
+      "name": "Design for Challenge 2019",
+      "isActive": true,
+      "description": "Participated in a product creation solutions event, designing innovative concepts to address real-world challenges.",
+      "highlights": [
+        "Product creation solutions event",
+        "Innovative design thinking approach"
+      ],
+      "stack": {}
+    },
+    {
+      "name": "CDS/IPS Data Synchronization & Backup System",
+      "isActive": true,
+      "description": "Automated data synchronization and backup system between CDS and IPS systems to ensure data integrity and availability.",
+      "highlights": [
+        "Automated data sync between CDS and IPS",
+        "Reliable backup and recovery mechanism",
+        "Reduced manual intervention for data operations"
+      ],
+      "stack": {
+        "Go": "simple-icons:go",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Linux": "simple-icons:linux",
+        "Shell": "simple-icons:shell"
+      }
+    },
+    {
+      "name": "Distributed Storage System (Firebase-like)",
+      "isActive": true,
+      "description": "Custom object storage system designed from scratch, providing Firebase-like distributed storage capabilities for internal use.",
+      "highlights": [
+        "Custom-built object storage from scratch",
+        "Distributed architecture for high availability",
+        "Firebase-inspired API design"
+      ],
+      "stack": {
+        "Go": "simple-icons:go",
+        "Docker": "mdi:docker",
+        "Linux": "simple-icons:linux"
+      }
+    },
+    {
+      "name": "Odometer Detection (YOLO)",
+      "isActive": true,
+      "description": "Machine learning model leveraging YOLO for detecting and reading odometer values from images.",
+      "highlights": [
+        "YOLO-based object detection model",
+        "Automated odometer reading from images",
+        "Applied computer vision for real-world use case"
+      ],
+      "stack": {
+        "Python": "simple-icons:python",
+        "Computer Vision": "mdi:eye-outline",
+        "Machine Learning": "mdi:brain"
+      }
+    }
+  ]
+}
