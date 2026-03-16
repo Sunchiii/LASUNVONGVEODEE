@@ -52,7 +52,7 @@ Go (Advanced) · PostgreSQL (Advanced) · Docker (Advanced) · Git (Advanced) ·
 Requires Node.js v22.x and pnpm.
 
 ```sh
-git clone https://github.com/Sunchiii/potfolio2.0
+git clone https://github.com/Sunchiii/sunchiii.github.io.git
 pnpm install
 pnpm dev        # http://localhost:4321
 pnpm build      # type-check + build

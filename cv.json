@@ -2,10 +2,10 @@
   "analyticsCode": "",
   "basics": {
     "name": "Lasun Vongveodee",
-    "label": "Backend Engineer | DevOps Engineer",
+    "label": "Backend Engineer | AI Engineer",
     "animated_main_label": "engineer",
     "animated_secondary_initial_label": "backend",
-    "animated_secondary_final_label": "devops",
+    "animated_secondary_final_label": "ai",
     "image": "/lasunvongveodee.jpg",
     "email": "rachanlamoolphal@gmail.com",
     "url": "",
@@ -105,6 +105,27 @@
         "GitHub Actions": "mdi:github",
         "Linux": "simple-icons:linux"
       }
+    },
+    {
+      "name": "Laligence.ai",
+      "position": "AI Engineer",
+      "location_type": "On-site",
+      "location": "LA",
+      "url": "",
+      "startDate": "2026-02-01",
+      "endDate": null,
+      "summary": "Building AI-powered applications and pipelines leveraging large language models and generative AI technologies.",
+      "responsibilities": [
+        "Developed LLM-based applications using prompt engineering and retrieval-augmented generation (RAG) techniques.",
+        "Designed and maintained AI data pipelines and MLOps workflows for model deployment and monitoring.",
+        "Integrated AI services and third-party APIs into production systems for intelligent automation."
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "LLM": "mdi:brain",
+        "LangChain": "mdi:link-variant",
+        "Docker": "mdi:docker"
+      }
     }
   ],
   "education": [
@@ -196,6 +217,12 @@
       "icon": "mdi:brain",
       "level": "Intermediate",
       "keywords": ["AI", "Data Science", "Python"]
+    },
+    {
+      "name": "LLM / GenAI",
+      "icon": "mdi:brain",
+      "level": "Intermediate",
+      "keywords": ["AI", "LLM", "RAG", "Prompt Engineering", "GenAI"]
     },
     {
       "name": "Shell/Bash",
